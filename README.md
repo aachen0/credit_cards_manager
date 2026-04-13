@@ -66,7 +66,30 @@ credit_cards_manager/
 
 ## 📸 应用截图
 
-> 待添加应用截图
+### 信用卡包
+<div align="center">
+<img src="images/screenshot-cards.jpg" width="200" alt="信用卡包"/>
+</div>
+
+### 活动管理
+<div align="center">
+<img src="images/screenshot-activity.jpg" width="200" alt="活动管理"/>
+</div>
+
+### 统计分析
+<div align="center">
+<img src="images/screenshot-stats.jpg" width="200" alt="统计分析"/>
+</div>
+
+### 还款提醒
+<div align="center">
+<img src="images/screenshot-reminder.jpg" width="200" alt="还款提醒"/>
+</div>
+
+### 卡片详情
+<div align="center">
+<img src="images/screenshot-card-detail.jpg" width="200" alt="卡片详情"/>
+</div>
 
 ---
 

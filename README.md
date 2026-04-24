@@ -144,7 +144,7 @@ MIT License
 
 ### <span style="color=red">如需获取持续最新版本，请添加qq群下载！</span>
 ** 
-
+![输入图片说明](images/1000065128.jpg)
 ### 致谢名单
 
 感谢所有支持本项目的用户！🎉

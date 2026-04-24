@@ -140,6 +140,10 @@ MIT License
 > | 支付宝收款码 | 微信收款码 |
 > |:------------:|:------------:|
 > | ![支付宝收款码](images/alipay.jpg) | ![微信收款码](images/wxpay.png) |
+ **
+
+### <span style="color=red">如需获取持续最新版本，请添加qq群下载！</span>
+** 
 
 ### 致谢名单
 

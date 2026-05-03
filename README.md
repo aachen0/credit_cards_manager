@@ -149,7 +149,7 @@ MIT License
 > - 捐赠完全自愿，金额不限
 > - 您可以在捐赠时备注想要的功能或建议
  <div align="center">
-<img src="images/wxpay.jpg" width="200"/><img src="images/alipay.jpg" width="200"/>
+<img src="images/wxpay.png" width="200"/><img src="images/alipay.jpg" width="200"/>
 </div>
 
 ### <span style="color=red">如需获取持续最新版本，请添加qq群下载！</span>

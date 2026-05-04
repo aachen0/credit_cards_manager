@@ -65,6 +65,7 @@ credit_cards_manager/
 
 | 版本 | 发布日期 | 下载 | 说明 |
 |:----:|:--------:|:----:|:-----|
+| v1.5.7 | 2026-05-04 | [📥 下载 APK](releases/app-release1.5.7.apk) | 重构每日提醒功能，确保每日都能收到准确的最新提醒 |
 | v1.5.6 | 2026-05-03 | [📥 下载 APK (arm64-v8a)](releases/1.5.6/app-arm64-v8a-release.apk) / [armeabi-v7a](releases/1.5.6/app-armeabi-v7a-release.apk) / [x86_64](releases/1.5.6/app-x86_64-release.apk) | 新增剪贴板账单解析、待还金额管理、待还款卡片快捷切换；优化主题和 Snackbar 样式、通知常驻显示、借记卡银行排序、活动/统计徽章实时刷新 |
 | v1.5.5 | 2026-05-01 | [📥 下载 APK](releases/app-release1.5.5.apk) | 新增每日定时提醒、银行自定义排序、活动提醒；优化还款排序、活动状态判断、通知内容、状态保持等 |
 

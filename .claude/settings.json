@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"/c/nvm4w/nodejs/node_modules/@anthropic-ai/claude-code/bin/\" 2>/dev/null)",
+      "Read(//c/nvm4w/nodejs/node_modules/@anthropic-ai/claude-code/bin//**)",
+      "Bash(xxd)",
+      "Bash(npm uninstall *)",
+      "Bash(npm install *)",
+      "Bash(cat \"/c/nvm4w/nodejs/node_modules/@anthropic-ai/claude-code/package.json\" | head -c 2000)",
+      "Read(//c/nvm4w/nodejs/node_modules/@anthropic-ai/claude-code/**)",
+      "Bash(ls \"/c/nvm4w/nodejs/node_modules/@anthropic-ai/\" 2>/dev/null)",
+      "Read(//c/nvm4w/nodejs/node_modules/@anthropic-ai//**)",
+      "Read(//c/Users/frank/AppData/Local/nvm/v24.14.0/node_modules/@anthropic-ai/claude-code/**)",
+      "Bash(node \"/c/nvm4w/nodejs/node_modules/@anthropic-ai/claude-code/install.cjs\")",
+      "Bash(claude --version)"
+    ]
+  }
+}

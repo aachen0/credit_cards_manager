@@ -155,9 +155,9 @@ This software is completely free and open source. If you find this project helpf
 <img src="images/lakala.jpg" width="200"/>
 </div>
 
-### <span style="color:red">For the latest versions, please join our QQ group!</span>
+### <span style="color:red">For the latest versions, please contact me with whatsapp!</span>
 <div align="center">
-<img src="images/1000065128.jpg" width="200"/>
+<img src="images/whatsapp.png" width="200"/>
 </div>
 
 ### Acknowledgments

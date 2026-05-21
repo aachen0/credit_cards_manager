@@ -91,7 +91,7 @@ credit_cards_manager/
 
 | 版本 | 发布日期 | 下载地址 | 更新说明 |
 |:----:|:--------:|:--------:|:---------|
-| lateast | - | [Gitee 发行版](https://gitee.com/aachen0/credit_cards_manager_repo/releases) | 详见发布页面 |
+| latest | - | [Gitee 发行版](https://gitee.com/aachen0/credit_cards_manager_repo/releases) | 详见发布页面 |
 | v1.5.7 | 2026-05-04 | — | 重构每日提醒功能，确保每日都能收到准确的最新提醒 |
 | v1.5.6 | 2026-05-03 | — | 新增剪贴板账单解析、待还金额管理、待还款卡片快捷切换 |
 | v1.5.5 | 2026-05-01 | — | 新增每日定时提醒、银行自定义排序、活动提醒 |

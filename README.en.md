@@ -65,6 +65,7 @@ credit_cards_manager/
 
 | Version | Release Date | Download | Description |
 |:----:|:--------:|:----:|:-----|
+| lateast | - | [Gitee releases](https://gitee.com/aachen0/credit_cards_manager_repo/releases) | For details, please refer to the release page. |
 | v1.6.0 | 2026-05-05 | [📥 Download APK](releases/app-release1.6.0.apk) | New desktop widget (Xiaomi support), biometric/PIN service optimization, stacked card component optimization |
 | v1.5.7 | 2026-05-04 | — | Refactored daily reminder feature to ensure accurate daily reminders |
 | v1.5.6 | 2026-05-03 | — | New clipboard bill parsing, pending amount management, quick card switching; optimized theme and Snackbar styles, persistent notifications, debit card bank sorting, real-time activity/stat badge refresh |
